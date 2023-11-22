@@ -6,9 +6,9 @@ Task&Point é uma aplicação web que permite o registro eletrônico de ponto da
 
 Registro de ponto eletrônico: As pessoas usuárias poderão fazer o cadastro, login e registrar pontos de forma eletrônica.
 
-Gerenciamento de tarefas: A pessoa administradora poderá criar tarefas e atribuí-las às pessoas usuárias cadastradas.
-
 Acompanhamento de tarefas: As pessoas usuárias poderão visualizar as tarefas atribuídas. Além disso, poderão marcar as tarefas como concluídas.
+
+Gerenciamento de tarefas: A pessoa administradora poderá criar tarefas e atribuí-las às pessoas usuárias cadastradas.
 
 Relatórios de ponto e tarefas: A pessoa administradora poderá visualizar os pontos registrados e acompanhar o andamento das tarefas atribuídas.
 
